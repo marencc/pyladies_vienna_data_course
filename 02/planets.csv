@@ -1,0 +1,10 @@
+name,symbol,equatorian_diameter,orbital_period,moons,has_rings
+Mercury,☿,0.39,0.24,0.0,False
+Venus,♀,0.72,0.62,0.0,False
+Earth,⊕,1.0,1.0,1.0,False
+Mars,♂,1.52,1.88,2.0,False
+Jupiter,♃,5.2,11.86,79.0,True
+Saturn,♄,9.54,29.46,82.0,True
+Uranus,♅,19.22,84.01,27.0,True
+Neptune,♆,30.06,164.8,14.0,True
+Pluto,,,,,
